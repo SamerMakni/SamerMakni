@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science student interested in Machine Learning and Artificial Intelligence.</h3>
+<h3 align="center">Computer Science student interested in Artificial Intelligence.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
